@@ -1,0 +1,9 @@
+﻿Counting Elements Challenge
+2017-5-31
+
+/r/DailyProgrammer
+https://www.reddit.com/r/dailyprogrammer/comments/6eerfk/20170531_challenge_317_intermediate_counting/
+
+Note:
+I decided to use Regular Expressions for my solution, because they can be 
+interesting and I tend to only use them for trivial uses like data validation.
